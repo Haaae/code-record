@@ -43,17 +43,40 @@
 ###### 네트워크
 
 ###### 데이터베이스
+- Date CRUD
+- Date Relation(Join, 조건문, Dynamic Query 등)
+- Table
+- View
+- Tranaction
+- Index
 
 ---
 ### Java
 
 ---
 ### Spring
+- 스프링이란?
+- AOP
+- DI
+- IoC
+- Spring Boot
+- Exception Handling
+- OAuth2
+- JWT, Sesstion
+- Logging
+- Tranaction
+- Test Code
 
 ---
 ### Java ORM
 
 ###### JPA
+- 기존 Java ORM과 JPA의 차이
+- 영속성 관리(JPA의 동작원리)
+- Entity
+- Entity의 Relation
+- Proxy
+- JPQL
 
 ###### Spring Data JPA
 
